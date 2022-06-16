@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://nibiru.com.uy/img/nibirulogo.svg" width="100"/></p>
+<p align="left"><img src="https://nibiru.com.uy/img/nibirulogo.svg" width="100"/></p>
 
 ### :man_technologist: &nbsp;About Me :
 
