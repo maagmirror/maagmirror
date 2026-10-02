@@ -14,4 +14,4 @@ I am a Developer and Designer <img src="https://media.giphy.com/media/WUlplcMpOC
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maagmirror&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 See my work : 
-- [Diseño Web Uruguay](https://nibiru.com.uy)
+- [ecommerce Uruguay](https://nibiru.com.uy)
